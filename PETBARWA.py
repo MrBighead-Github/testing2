@@ -35,7 +35,7 @@ if ans.lower() == 'what' :
     score += 1
     print('winning smile')
 else:
-    print('■■■■■')
+    print('----')
     
 ans = input('3. What is the rock eating?')
 if ans.lower() == 'pancakes' :
@@ -65,12 +65,12 @@ if ans.lower() == '21' :
 else:
     print('YOURE SO STUPID ITS 21')
     
-ans = input('7. If youre sleeping on a sunny day, at midnight, and you forget to wash your TV, how many picoseconds does it take to eat the ■■■, true or false?')
+ans = input('7. If youre sleeping on a sunny day, at midnight, and you forget to wash your TV, how many picoseconds does it take to eat the --, true or false?')
 if ans.lower() == 'amogus' :
     score += 1
     print('Me too!')
 else:
-    print('■■■■■■■■■■■■■■■■■■■■■■■■●■■●■●■■●')
+    print('-')
     
 ans = input('8. Do you have any friends?')
 if ans.lower() == 'no' :
@@ -122,14 +122,14 @@ else:
 	print('IMAGINE DRAGON DEEZ NUTS ON YOUR FACE BAHAHAHAHHAHA GOTEEEEEM :neutral_face: shits not funny')
 	
 ans = input('15. SAY SHIT ALONG: hey spongebob!')
-if ans.lower() == '*inhale* AAAAAAĂÁÆĄÄÅ○□♤¤■◇○{■]○♤]■○' :
+if ans.lower() == '*inhale* AAAAAA' :
 	score += 37593896
 	print('that is correct, congrats on having a stroke!')
 else:
 	print('WRONG.')
 
-ans = input('16. Turn the lights on: □■')
-if ans.lower() == '■■' :
+ans = input('16. Turn the lights on: --')
+if ans.lower() == '--' :
 	score += 1
 	print('you did it, congrats')
 else:
@@ -158,7 +158,7 @@ else:
     print('.... - - .--. ... ---... -..-. -..-. -.-- --- ..- - ..- .-.-.- -... . -..-. ..- --.. ..-. -. -....- -....- -..- -..- -... ..--- -.-.')
     
 ans = input('9999999999999999999. HELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELPHELP')
-if ans.lower() == '□□♧`□●{[○{~◇' :
+if ans.lower() == '---' :
     score += 828620862025792442015025720268082668
     print('[ERROR]')
 else:
@@ -178,7 +178,7 @@ print('...')
 sleep(2)
 print('...')
 sleep(4)
-print('■■■■■■■■■■')
+print('---')
 sleep(0.25)
 os.system('cls' if os.name == 'nt' else 'clear')
 print(Fore.GREEN + 'Congratulations on getting through all of those questions!')
